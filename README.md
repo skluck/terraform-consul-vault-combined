@@ -7,6 +7,10 @@ Original sources:
 - [hashicorp/terraform-aws-consul](https://github.com/hashicorp/terraform-aws-consul)
 - [hashicorp/terraform-aws-vault](https://github.com/hashicorp/terraform-aws-vault)
 
+Current versions:
+- hashicorp/terraform-aws-consul `v0.3.1`
+- hashicorp/terraform-aws-vault `v0.5.1`
+
 #### Updating Consul
 ```
 git subtree pull --prefix terraform-aws-consul https://github.com/hashicorp/terraform-aws-consul v0.3.1 --squash
