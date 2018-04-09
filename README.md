@@ -9,10 +9,10 @@ Original sources:
 
 #### Updating Consul
 ```
-git subtree pull --prefix terraform-aws-consul https://github.com/hashicorp/terraform-aws-consul $CONSUL_VERSION --squash
+git subtree pull --prefix terraform-aws-consul https://github.com/hashicorp/terraform-aws-consul v0.3.1 --squash
 ```
 
 #### Updating Vault
 ```
-git subtree pull --prefix terraform-aws-vault https://github.com/hashicorp/terraform-aws-vault $VAULT_VERSION --squash
+git subtree pull --prefix terraform-aws-vault https://github.com/hashicorp/terraform-aws-vault v0.5.1--squash
 ```
